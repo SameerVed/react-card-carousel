@@ -1,0 +1,2 @@
+export const FETCH_CAROUSEL_DATA = "FETCH_CAROUSEL_DATA";
+export const ADD_NEW_CARD = "ADD_NEW_CARD";

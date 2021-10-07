@@ -1,0 +1,51 @@
+[
+  {
+    "card_name": "Sameer Ved",
+    "card_last_four": "8139",
+    "expiry": "09/2023",
+    "color": "#112b4a",
+    "spend_limit": 4000
+  },
+  {
+    "card_name": "Ashok Kumar",
+    "card_last_four": "5130",
+    "expiry": "03/2021",
+    "color": "#006eb6",
+    "spend_limit": 5000
+  },
+  {
+    "card_name": "N Divya",
+    "card_last_four": "5131",
+    "expiry": "08/2027",
+    "color": "#ff6700",
+    "spend_limit": 6000
+  },
+  {
+    "card_name": "Lucy Sharma",
+    "card_last_four": "5132",
+    "expiry": "01/2022",
+    "color": "#0e4c01",
+    "spend_limit": 7000
+  },
+  {
+    "card_name": "Nitin Saxena",
+    "card_last_four": "5133",
+    "expiry": "05/2024",
+    "color": "#683bb7",
+    "spend_limit": 8000
+  },
+  {
+    "card_name": "Pooja Dev",
+    "card_last_four": "5134",
+    "expiry": "11/2021",
+    "color": "#112b4a",
+    "spend_limit": 10000
+  },
+  {
+    "card_name": "Mayank Goyal",
+    "card_last_four": "5135",
+    "expiry": "07/2023",
+    "color": "#ff6700",
+    "spend_limit": 9000
+  }
+]

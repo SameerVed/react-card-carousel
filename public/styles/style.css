@@ -1,0 +1,101 @@
+label {
+  color: hsl(0deg 3% 23%);
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.gridContainerLastFour {
+  grid-template-columns: repeat(3, 1fr);
+}
+.gridItem {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  width: max-content;
+}
+
+.textBox {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* .card-text-wrapper > div > i {
+  float: right;
+  font-size: larger;
+} */
+.react-datepicker__input-container {
+  width: 50% !important;
+}
+.submitButton {
+  width: 100%;
+
+  margin-top: 20px;
+}
+.caraousel-container-vw-add {
+  display: flex;
+}
+.carousel-vw {
+  width: 100%;
+}
+
+.add-card {
+  border: none !important;
+}
+
+#expiry-datepicker {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 14px;
+  width: 180px;
+}
+
+.display-date {
+  border: 1px solid #ccc;
+  border-radius: 4px !important;
+  padding: 8px;
+  font-size: 14px;
+  width: 180px;
+}
+
+.plus-button {
+  background-color: #555555 !important;
+  border: none !important;
+  border-radius: 100% !important;
+}
+
+.card-container-add {
+  text-align: center;
+  color: #555555;
+  width: 200 px;
+}
+.add-card-text {
+  margin-top: 14px;
+}
+
+.add-card > div.card > div.card-body {
+  margin-top: 20px;
+}
+.add-card > div.card {
+  border: none;
+}
+
+.brand-icon {
+  display: flex;
+  justify-content: space-between;
+  font-size: larger;
+}
+
+.card-name {
+  font-size: 18px;
+}
+
+input:disabled {
+  color: #5a6874 !important;
+}
